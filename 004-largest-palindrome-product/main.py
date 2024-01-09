@@ -7,7 +7,7 @@
 # Answer:  906609
 # Completed on Sun, 24 Jan 2016, 14:06
 
-digits = 8
+digits = 3
 
 def max_by_digits(digits):
     return 10**digits - 1
